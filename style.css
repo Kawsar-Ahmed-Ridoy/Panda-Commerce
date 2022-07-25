@@ -1,13 +1,12 @@
-.banner-color{
-    background: #FCEAE8;
+.banner-color {
+  background: #fceae8;
 }
-.button-color{
-    background: linear-gradient(360deg, #FF257A, #ff146ee8);
+.button-color {
+  background: linear-gradient(360deg, #ff257a, #ff146ee8);
 }
-.text-color{
-    color: #FF257A;
+.text-color {
+  color: #ff257a;
 }
-.subcribe-work{
-    width: 300px;
-    
+.subcribe-work {
+  width: 300px;
 }
